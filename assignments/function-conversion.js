@@ -9,7 +9,7 @@ console.log(myfunction());
 
 let anotherFunction = (param) ->
   return param;
-console.log(anotherFunction("Example"));
+console.log(anotherFunction("Example");
 
 let add = (param1, param2) ->
   return param1 + param2;
